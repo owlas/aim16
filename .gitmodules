@@ -1,0 +1,3 @@
+[submodule "sotonbeamer"]
+	path = sotonbeamer
+	url = git@github.com:owlas/sotonbeamer.git
